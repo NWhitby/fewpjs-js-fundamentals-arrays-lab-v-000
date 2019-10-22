@@ -4,4 +4,4 @@ const append = [
   "Garfield"
 ];
 
-append.unshift("Odie")
+append.push("Odie")
